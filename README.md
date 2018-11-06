@@ -13,3 +13,5 @@ This repository contains a collection of Ethereum Engineering Processes (EEPs), 
 ## Table of Contents
 
 - [EEP-1: Consensus update rollout](https://github.com/karalabe/eee/blob/master/eeps/eep-1.md)
+- [Sharding Faq](https://github.com/ethereum/wiki/wiki/Sharding-FAQs)
+
